@@ -1,0 +1,9 @@
+{
+	"name": "testgit3",
+	"location": "chinanorth3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e117596-0f67-4b9e-98fc-7253a0aa535e",
+		"tenantId": "b388b808-0ec9-4a09-a414-a7cbbd8b7e9b"
+	}
+}
